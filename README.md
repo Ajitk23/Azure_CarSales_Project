@@ -56,4 +56,4 @@ The SalesCarsProject highlights the power of Azure and Databricks in building a 
 
 ---
 
-This summary is ready to share on LinkedIn and GitHub to showcase your expertise and inspire others. Let me know if you’d like to adjust anything further!
+
