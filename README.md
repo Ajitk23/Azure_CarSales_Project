@@ -1,3 +1,6 @@
+
+![photo_2025-01-21_05-05-54](https://github.com/user-attachments/assets/df4b0635-c2d1-4437-a132-f3b2f6074a61)
+
 # Azure_CarSales_Project
 End-to-End Azure Project by using Unity Catalog
 # **SalesCarsProject: A Complete Azure Data Engineering Solution**
